@@ -1,0 +1,9 @@
+- file: index.md
+
+- part: Chapter 1
+  sections:
+    - file: chapter1/chapter1.ipynb
+
+- part: Chapter 2
+  sections:
+    - file: chapter2/chapter2.md
